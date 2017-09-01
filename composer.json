@@ -1,0 +1,30 @@
+{
+    "name": "razonyang/php-router",
+    "type": "library",
+    "description": "A fast and high scalable HTTP router for PHP",
+    "keywords": [
+        "php",
+        "router",
+        "RESTful API"
+    ],
+    "homepage": "https://github.com/razonyang/php-router",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/razonyang/php-router/issues"
+    },
+    "authors": [
+        {
+            "name": "razonyang",
+            "email": "razonyang@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "RazonYang\\Router\\": ""
+        }
+    }
+}
