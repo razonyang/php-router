@@ -14,7 +14,7 @@ A fast and high scalable HTTP router for PHP.
 composer require razonyang/php-router:dev-master
 ```
 
-Please add the following repository into `repositories` when `composer` complained 
+Please add the following repository into `repositories` when `composer` complains about
 that `Could not find package razonyang/php-router ...`.
 
 ```
